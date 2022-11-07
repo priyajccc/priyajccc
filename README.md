@@ -1,10 +1,3 @@
 - 👋 Hi, I’m Priya
-- 👀 I’m interested in contributing to open source python, SQL, data visualization projects
-- 🌱 I’m currently learning statistics
-- 💞️ 
-- 📫 
-
-<!---
-priyajccc/priyajccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I am looking for a data analyst role. As I am looking for a job I am learning new things. I am good at SQL, Python, R and Excel. I also know SAS, Tableau and Microsoft Power BI. I am uploading here the projects that I am practicing and new stuff I am learning.
+- Github helped me learn about Virtual machines, pracitce Linux and ETL on SQL server which are ouside my school courses. 
